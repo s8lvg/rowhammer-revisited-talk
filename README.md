@@ -11,6 +11,7 @@
 - [Throwhammer: Rowhammer Attacks over the Network and Defenses](https://www.usenix.org/conference/atc18/presentation/tatar) Rowhammer attacks by sending packets to network controllers
 - [Another Flip in the Wall of Rowhammer Defenses](https://ieeexplore.ieee.org/abstract/document/8418607) introduces single location hammering, also introduces sudo exploit
 - [Uncovering In-DRAM RowHammer Protection Mechanisms: A New Methodology, Custom RowHammer Patterns, and Implications](https://dl.acm.org/doi/abs/10.1145/3466752.3480110) reverse engineers and bypasses the TRR mitigation
+- [Exploiting Correcting Codes: On the Effectiveness of ECC Memory Against Rowhammer Attacks](https://ieeexplore.ieee.org/abstract/document/8835222) shows ECC DRAM is also vulnerable to Rowhammer
 - [TRRespass: Exploiting the Many Sides of Target Row Refresh](https://ieeexplore.ieee.org/abstract/document/9152631) fuzzer to bypass TRR
 - [BLACKSMITH: Scalable Rowhammering in the Frequency Domain](https://ieeexplore.ieee.org/abstract/document/9833772) general fuzzing to find new hammering patterns
 - [REGA: Scalable Rowhammer Mitigation with Refresh-Generating Activations](https://www.research-collection.ethz.ch/handle/20.500.11850/587835) REGA in DRAM mitigation
