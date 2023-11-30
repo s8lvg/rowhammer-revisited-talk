@@ -1,5 +1,6 @@
-# awesome-rowhammer
- A list of Rowhammer papers, tools, and info resources. 
+# Rowhammer Revisited: From Exploration to Exploitation and Mitigation
+ A list of resources for the topics covered in the m0leCon 2023 talk **Rowhammer Revisited: From Exploration to Exploitation and Mitigation**.
+ 
 
 # Code
 - [Google Rowhammer Tester](https://github.com/google/rowhammer-test) Rowhammer tester
