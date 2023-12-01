@@ -10,13 +10,14 @@
 - [Rowhammer.js: A Remote Software-Induced Fault Attack in JavaScript](https://link.springer.com/chapter/10.1007/978-3-319-40667-1_15) shows that Rowhammer is possible for a javascript envoirement in the browser
 - [Throwhammer: Rowhammer Attacks over the Network and Defenses](https://www.usenix.org/conference/atc18/presentation/tatar) Rowhammer attacks by sending packets to network controllers
 - [Another Flip in the Wall of Rowhammer Defenses](https://ieeexplore.ieee.org/abstract/document/8418607) introduces single location hammering, also introduces sudo exploit
+- [Terminal Brain Damage: Exposing the Graceless Degradation in Deep Neural Networks Under Hardware Fault Attacks](https://www.usenix.org/conference/usenixsecurity19/presentation/hong) performance dedradation attacks on neural networks using Rowhammer
 - [Uncovering In-DRAM RowHammer Protection Mechanisms: A New Methodology, Custom RowHammer Patterns, and Implications](https://dl.acm.org/doi/abs/10.1145/3466752.3480110) reverse engineers and bypasses the TRR mitigation
 - [Exploiting Correcting Codes: On the Effectiveness of ECC Memory Against Rowhammer Attacks](https://ieeexplore.ieee.org/abstract/document/8835222) shows ECC DRAM is also vulnerable to Rowhammer
 - [TRRespass: Exploiting the Many Sides of Target Row Refresh](https://ieeexplore.ieee.org/abstract/document/9152631) fuzzer to bypass TRR
 - [BLACKSMITH: Scalable Rowhammering in the Frequency Domain](https://ieeexplore.ieee.org/abstract/document/9833772) general fuzzing to find new hammering patterns
 - [REGA: Scalable Rowhammer Mitigation with Refresh-Generating Activations](https://www.research-collection.ethz.ch/handle/20.500.11850/587835) REGA in DRAM mitigation
 - [CSI:Rowhammer – Cryptographic Security and Integrity against Rowhammer](https://ieeexplore.ieee.org/abstract/document/10179390) CIS:Rowhammer mitigation
-  
+
 # Code
 - [Google Rowhammer Tester](https://github.com/google/rowhammer-test) Rowhammer tester
 - [CMU-SAFARI Rowhammer Tester](https://github.com/CMU-SAFARI/rowhammer) Rowhammer tester
