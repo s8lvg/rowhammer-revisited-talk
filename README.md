@@ -6,6 +6,7 @@
 - [RowHammer: A Retrospective](https://ieeexplore.ieee.org/abstract/document/8708249) overview of the last years of Rowhammer research
 - [Drammer: Deterministic Rowhammer Attacks on Mobile Platforms](https://dl.acm.org/doi/abs/10.1145/2976749.2978406) exploits Rowhammer on phones
 - [Flip Feng Shui: Hammering a Needle in the Software Stack](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/razavi) introduces the RSA modulus hammering attack
+- [One Bit Flips, One Cloud Flops: Cross-VM Row Hammer Attacks and Privilege Escalation](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_xiao.pdf) Vm attacks with Rowhammer
 - [Exploiting the DRAM rowhammer bug to gain kernel privileges](https://www.cs.umd.edu/class/fall2019/cmsc818O/papers/rowhammer-kernel.pdf) presentation that introduces the page table exploit
 - [Rowhammer.js: A Remote Software-Induced Fault Attack in JavaScript](https://link.springer.com/chapter/10.1007/978-3-319-40667-1_15) shows that Rowhammer is possible for a javascript envoirement in the browser
 - [Throwhammer: Rowhammer Attacks over the Network and Defenses](https://www.usenix.org/conference/atc18/presentation/tatar) Rowhammer attacks by sending packets to network controllers
