@@ -27,6 +27,7 @@
 - [Blacksmith](https://github.com/comsec-group/blacksmith) Rowhammer fuzzer
 - [Trrespass](https://github.com/vusec/trrespass) Rowhammer fuzzer to break TRR
 - [DRAMA](https://github.com/IAIK/drama) Reverse engineering for DRAM functions
+- [Hammertime](https://github.com/vusec/hammertime/) Profile based simulator for Rowhammer
 - [Hammulator](https://github.com/cispa/hammulator) simulating Rowhammer exploits for rapid prototyping
 
 # Our papers
